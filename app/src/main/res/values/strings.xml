@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">ScoreLine Stories</string>
+    <string-array name="item_titles">
+        <item>Record-Breaking Performance: Sprinter Shatters 100m World Record</item>
+        <item>Underdog Triumphs: Unseeded Tennis Player Wins Grand Slam Title</item>
+        <item>Historic Victory: National Team Claims First-Ever Olympic Gold in Rowing</item>
+        <item>"Clash of Giants: Heavyweight Boxing Championship Ends in Split Draw</item>
+        <item>Rising Star Alert: Young Golfer Dominates Masters Tournament</item>
+        <item>Unprecedented Feat: Gymnast Achieves Perfect Score in All Events</item>
+        <item>Sudden Retirement: Legendary Soccer Captain Bids Farewell to the Pitch</item>
+        <item>Breaking Boundaries: Paralympian Sets New World Record in Swimming</item>
+        <item>Dramatic Finish: Cyclist Wins Tour de France by a Photo Finish</item>
+        <item>Triumph Over Adversity: Skateboarder Makes Miraculous Recovery After Injury</item>
+        <item>Golden Strike: Record-Breaking Goal Scorer Leads Team to Victory</item>
+        <item>Unstoppable Force: Dominant Swimmer Claims Seventh Consecutive World Title</item>
+        <item>Courageous Comeback: Tennis Star Returns to Win Major Title After Injury</item>
+        <item>Olympic Dreams Realized: Skateboarding Makes Spectacular Debut at Tokyo Games</item>
+        <item>World-Class Showdown: Chess Grandmasters Battle to a Thrilling Draw</item>
+        <!-- Добавьте свои заголовки -->
+    </string-array>
+
+    <string-array name="item_descriptions">
+        <item>In a stunning display of speed, the world witnessed a new 100m sprint world record as the athlete crossed the finish line with lightning speed, beating the previous record by a fraction of a second.</item>
+        <item>A remarkable upset unfolded at the Grand Slam championship as an unseeded tennis player clinched the title, defeating higher-ranked opponents and proving that determination can triumph over all odds.</item>
+        <item>Tears of joy flowed as the national rowing team secured their first Olympic gold medal in history, showcasing their dedication and teamwork on the water.</item>
+        <item>The much-anticipated heavyweight boxing championship ended in a thrilling split draw, leaving fans eagerly anticipating a rematch between the two titans of the ring.</item>
+        <item>A young golf prodigy captured the world\'s attention by dominating the Masters Tournament, outperforming seasoned veterans and signaling the arrival of a new era in the sport.</item>
+        <item>A gymnastics sensation achieved the unimaginable by earning a perfect score in every event at the international competition, solidifying their place in the history books.</item>
+        <item>The soccer world mourns as a beloved and iconic team captain announces their unexpected retirement, leaving behind a legacy of leadership and remarkable achievements.</item>
+        <item>Defying all expectations, a Paralympic swimmer shattered the world record in their category, proving that determination and skill can transcend physical limitations.</item>
+        <item>The Tour de France concluded with a breathtaking photo finish, as a cyclist narrowly edged out their competitor at the finish line, securing the coveted yellow jersey.</item>
+        <item>A skateboarder\'s incredible journey from a serious injury to a triumphant comeback captured hearts as they defied the odds and returned to the sport stronger than ever.</item>
+        <item>A prolific goal scorer set a new record for the most goals in a single season, propelling their team to a championship victory and etching their name in soccer history.</item>
+        <item>A swimmer of unparalleled prowess secured their seventh consecutive world title, showcasing unwavering dedication and an unmatched commitment to excellence.</item>
+        <item>After a prolonged absence due to injury, a tennis star made a triumphant return to the court, clinching a major title and inspiring countless fans with their resilience.</item>
+        <item>The world watched in awe as skateboarding made its debut at the Tokyo Olympics, with athletes performing daring tricks and bringing a new level of excitement to the Games.</item>
+        <item>Chess enthusiasts were treated to a strategic masterpiece as two grandmasters engaged in a thrilling battle that ended in a draw, leaving spectators in awe of their intellect and skill.</item>
+    </string-array>
+
+    <array name="item_images">
+        <item>@drawable/news1</item>
+        <item>@drawable/news2</item>
+        <item>@drawable/news3</item>
+        <item>@drawable/news4</item>
+        <item>@drawable/news5</item>
+        <item>@drawable/news6</item>
+        <item>@drawable/news7</item>
+        <item>@drawable/news8</item>
+        <item>@drawable/news9</item>
+        <item>@drawable/news10</item>
+        <item>@drawable/news11</item>
+        <item>@drawable/news12</item>
+        <item>@drawable/news13</item>
+        <item>@drawable/news14</item>
+        <item>@drawable/news15</item>
+        <!-- Добавьте свои ресурсы изображений -->
+    </array>
+    <string-array name="football_rules">
+        <item>Objective</item>
+        <item>Team Composition</item>
+        <item>Duration</item>
+        <item>Offside Rule</item>
+        <item>Fouls and Free Kicks</item>
+        <item>Yellow and Red Cards</item>
+        <item>Throw-Ins</item>
+        <item>Goal Kicks and Corner Kicks</item>
+
+    </string-array>
+    <string-array name="rules_info">
+        <item>The objective of football is to score more goals than the opposing team by getting the ball into the opponent\'s goalpost using any part of the body except the hands and arms of players.</item>
+        <item>Each team consists of 11 players on the field, including one goalkeeper. Teams can make substitutions during the match according to the rules.</item>
+        <item>A standard football match is divided into two halves of 45 minutes each, with a 15-minute halftime break. Extra time and penalty shootouts might occur in knockout competitions if the match ends in a draw.</item>
+        <item>A player is considered offside if they are nearer to the opponent\'s goal line than both the ball and the second-to-last defender (usually the last outfield player) at the moment when the ball is played to them.</item>
+        <item>Fouls are committed when a player\'s actions are deemed unfair or dangerous. A free kick is awarded to the opposing team from the spot of the foul. A penalty kick is awarded if a foul occurs inside the penalty area.</item>
+        <item>Referees can issue yellow cards to caution players for reckless play or persistent fouling. Two yellow cards result in a red card, leading to the player\'s expulsion. A direct red card can be given for serious offenses, resulting in an immediate expulsion.</item>
+        <item>When the ball goes out of play over the sidelines, the opposing team is awarded a throw-in. The player must use both hands to throw the ball back into play from the spot where it went out.</item>
+        <item>If the attacking team kicks the ball out of play over the goal line, the defending team is awarded a goal kick. A corner kick is given to the attacking team when the ball crosses the goal line over the end line, last touched by the defending team.</item>
+
+    </string-array>
+    <array name="football_image">
+        <item>@drawable/football1</item>
+        <item>@drawable/football2</item>
+        <item>@drawable/football3</item>
+        <item>@drawable/football4</item>
+        <item>@drawable/football5</item>
+        <item>@drawable/football6</item>
+        <item>@drawable/football7</item>
+        <item>@drawable/football8</item>
+        <!-- Добавьте свои ресурсы изображений -->
+    </array>
+    <string-array name="basketball_rules">
+        <item>Objective</item>
+        <item>Team Composition</item>
+        <item>Duration</item>
+        <item>Scoring</item>
+        <item>Dribbling</item>
+        <item>Shot Clock</item>
+        <item>Fouls</item>
+        <item>Free Throws</item>
+        <item>Jump Ball</item>
+        <item>Out of Bounds and Turnovers</item>
+    </string-array>
+    <string-array name="rules_basketball">
+        <item>The objective of basketball is to score points by shooting the ball through the opponent\'s basket, which is a hoop elevated 10 feet above the ground.</item>
+        <item>Each team consists of five players on the court at a time. Teams can substitute players during stoppages in play.</item>
+        <item>A standard basketball game consists of four quarters, each lasting 12 minutes in the NBA and international play, or 10 minutes in college and some other leagues.</item>
+        <item>Points are earned by making field goals (worth two or three points, depending on the distance from the hoop) and free throws (worth one point each), which are awarded after certain fouls.</item>
+        <item>Players must continuously dribble (bounce) the ball while moving around the court. Double dribbling (starting to dribble again after stopping) is not allowed.</item>
+        <item>Teams have a limited time (e.g., 24 seconds in the NBA) to attempt a shot. If the shot clock expires before a shot is attempted, the opposing team gains possession.</item>
+        <item>Personal fouls are committed when players make illegal physical contact with opponents. After a certain number of team fouls in a quarter, the opposing team is awarded free throws.</item>
+        <item>A player fouled during a shooting attempt is awarded free throws. If a player is fouled in the act of shooting a three-point shot, they can earn three free throws.</item>
+        <item>The game begins with a jump ball at center court. The referee tosses the ball into the air, and players from each team try to tip it to their teammates.</item>
+        <item>The ball is considered out of bounds when it crosses the boundary lines. Turnovers occur when the opposing team gains possession due to a steal, offensive foul, or other violation.</item>
+    </string-array>
+    <array name="basketball_image">
+        <item>@drawable/basket1</item>
+        <item>@drawable/basket2</item>
+        <item>@drawable/basket3</item>
+        <item>@drawable/basket4</item>
+        <item>@drawable/basket5</item>
+        <item>@drawable/basket6</item>
+        <item>@drawable/basket7</item>
+        <item>@drawable/basket8</item>
+        <item>@drawable/basket9</item>
+        <item>@drawable/basket10</item>
+        <!-- Добавьте свои ресурсы изображений -->
+    </array>
+    <string-array name="tennis_rules">
+        <item>Scoring System</item>
+        <item>Serving</item>
+        <item>Deuce and Advantage</item>
+        <item>Scoring Sets</item>
+        <item>Tiebreaker</item>
+        <item>Match</item>
+        <item>Doubles</item>
+        <item>Ball In/Out</item>
+        <item>Net and Let</item>
+        <item>Winning</item>
+    </string-array>
+    <string-array name="rules_tennis">
+        <item>Tennis is played in sets, with each set consisting of games. Players earn points within games using a scoring system of 15, 30, 40, and game. The first player to win four points wins the game.</item>
+        <item>The server stands behind the baseline and serves the ball diagonally to the opponent\'s service box. If the ball lands in the service box, it\'s a legal serve. Players alternate serving games.</item>
+        <item>If both players have 40 points in a game, it\'s called "deuce." The player who wins the next point gets "advantage." If they win the following point, they win the game. If the opponent wins, it\'s back to deuce.</item>
+        <item>To win a set, a player needs to win six games with a difference of at least two games. If the set reaches 6-6, a tiebreaker is played to determine the winner of the set.</item>
+        <item>In a tiebreaker, players take turns serving for points. The first player to reach seven points with a two-point advantage wins the tiebreaker and the set. A tiebreaker is won by the first to reach 7 points with at least a 2-point lead.</item>
+        <item>A match is usually played as best-of-three sets for women and best-of-five sets for men in major tournaments. The player who wins the required number of sets wins the match.</item>
+        <item> In doubles, teams of two players compete on each side. The serving team decides who serves, and each team alternates serving games. The receiving team decides which player receives the serve.</item>
+        <item> If the ball lands on the lines, it\'s considered "in." If it lands outside the lines, it\'s "out." Players can challenge line calls using a limited number of challenges, which are reviewed using technology.</item>
+        <item> If the ball hits the net but still lands in the service box, the serve is a "let" and is retaken. During a point, if the ball hits the net and lands in the correct service area, the point continues.</item>
+        <item>To win the match, a player must win the required number of sets. In a best-of-three-set match, the player who wins two sets wins the match. In a best-of-five-set match, the player who wins three sets wins the match.</item>
+    </string-array>
+    <array name="tennis_image">
+        <item>@drawable/tennis1</item>
+        <item>@drawable/tennis2</item>
+        <item>@drawable/tennis3</item>
+        <item>@drawable/tennis4</item>
+        <item>@drawable/tennis5</item>
+        <item>@drawable/tennis6</item>
+        <item>@drawable/tennis7</item>
+        <item>@drawable/tennis8</item>
+        <item>@drawable/tennis9</item>
+        <item>@drawable/tennis10</item>
+
+    </array>
+
+</resources>

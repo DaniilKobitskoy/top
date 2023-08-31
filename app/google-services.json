@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545634600255",
+    "project_id": "gbet-891ad",
+    "storage_bucket": "gbet-891ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545634600255:android:e693f381a6d1b09c13bf8a",
+        "android_client_info": {
+          "package_name": "com.fivegbet.fiveg.bets.esportedasrote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545634600255-30o15q2s7np4d9ko1vpgecu7aeijntth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgkgs9CMzJ-7MITCc8eHRg38LNtOzuf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545634600255-30o15q2s7np4d9ko1vpgecu7aeijntth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
